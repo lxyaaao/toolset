@@ -8,6 +8,8 @@ This repository contains essential scripts and CUDA code for analyzing Large Lan
 
 Use the `llama.cpp` CLI tool to get standardized load time, TTFT, TPOT metrics quickly.
 
+[llama.cpp GitHub Repository](https://github.com/ggml-org/llama.cpp)
+
 Prerequisite: Model must be converted to GGUF format.
 
 ```bash
